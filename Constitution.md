@@ -205,6 +205,6 @@ CsufSec accepts "Robert's Rules of Order" (newly revised) as its Rules of Order.
 Any issue not directly written in this document will be resolved by
 referring to the Rules of Order. 
 
-ARTICLE XII. APPROVAL 
-Section 1.  
+## ARTICLE XII. APPROVAL 
+### Section 1.  
 This constitution was approved on 8/19/2013.
