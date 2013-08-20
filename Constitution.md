@@ -66,7 +66,7 @@ majority vote
 approval of the officers.    
 
 #### Clause D. 
-The Street Boss (ambassador) shall be in charge of public relations and the care of initate members.
+The Street Boss (ambassador) shall be in charge of public relations and the care of initiate members.
 
 #### Clause E. 
 The Consiglieri of Logistics (secretary) takes minutes at all meetings of the organization, files minutes
